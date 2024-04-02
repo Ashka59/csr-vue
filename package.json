@@ -5,6 +5,7 @@
   "main": "dist/expressCSR.js",
   "type": "module",
   "scripts": {
+    "start": "node --watch .",
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
     "preview": "vite preview",
