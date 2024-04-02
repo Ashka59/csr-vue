@@ -2,6 +2,7 @@
   "name": "package",
   "version": "0.0.0",
   "private": true,
+  "main": "dist/expressCSR.js",
   "type": "module",
   "scripts": {
     "dev": "vite",
